@@ -1,11 +1,8 @@
 本日の作業報告-----------------------
 
-・栃木シティ
-・北総鉄道
-・しまねバイヤーズ
-・湯楽の里
-・TSK
 ・イーエヌ大塚
+・栃木シティ
+・ダイヤモンド
 ・朝礼/終礼
 
 翌日予定----------------------------
@@ -22,5 +19,10 @@
 
 
 その他/メモ---------------------------
+
+ogpについて
+https://www.xserver.ne.jp/bizhp/open-graph-protocol/
+https://meetsmore.com/product-services/cms/media/95388
+https://qiita.com/takepan/items/af77efdabed436f5de10
 
 -------------------------------------

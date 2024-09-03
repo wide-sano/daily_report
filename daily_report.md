@@ -1,9 +1,13 @@
 本日の作業報告-----------------------
 
-・ジョブガール（2）
-・TSK（0.5）
-・はとバス（0.25）
-・社内業務（1.25）
+・TANABEグループ
+・NCA
+・ロード銀山
+・東洋ソーラー
+・たたらの里
+・北総鉄道
+・湯楽の里
+・いのぶたファーム
 ・朝礼/終礼
 
 翌日予定----------------------------
@@ -25,6 +29,5 @@
 -------------------------------------
 
 ogpについて
-https://www.xserver.ne.jp/bizhp/open-graph-protocol/
 https://meetsmore.com/product-services/cms/media/95388
 https://qiita.com/takepan/items/af77efdabed436f5de10
